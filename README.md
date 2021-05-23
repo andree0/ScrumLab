@@ -19,3 +19,5 @@ Pani Maria Iksińska napisała książkę kucharską, która stała się bestsel
 Pani Maria chce rozwijać swój biznes, a do zrealizowania swoich celów potrzebuje strony-wizytówki oraz prostej aplikacji do planowania posiłków.
 
 ## Projekt realizowany w ramach kursu Python Developer CodersLab.
+
+![photo-1()
