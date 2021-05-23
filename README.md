@@ -20,4 +20,17 @@ Pani Maria chce rozwijać swój biznes, a do zrealizowania swoich celów potrzeb
 
 ## Projekt realizowany w ramach kursu Python Developer CodersLab.
 
-![photo-1()
+#### Widok strony głównej 
+![photo main view](https://github.com/andree0/ScrumLab/blob/main/static/images/scrum-1.PNG)
+#### Dashboard 
+![photo dashboard](https://github.com/andree0/ScrumLab/blob/main/static/images/scrum-2.PNG)
+#### Lista planów tygodniowych 
+![photo plan list](https://github.com/andree0/ScrumLab/blob/main/static/images/scrum-3.PNG)
+#### Lista przepisów kulinarnych 
+![photo recipe list](https://github.com/andree0/ScrumLab/blob/main/static/images/scrum-4.PNG)
+#### Widok dodawania przepisu do planu 
+![photo add recipe to plan](https://github.com/andree0/ScrumLab/blob/main/static/images/scrum-5.PNG)
+#### Widok szczegółów przepisu 
+![photo recipe details](https://github.com/andree0/ScrumLab/blob/main/static/images/scrum-6.PNG)
+#### Widok szczegółów planu 
+![photo plan details](https://github.com/andree0/ScrumLab/blob/main/static/images/scrum-7.PNG)
